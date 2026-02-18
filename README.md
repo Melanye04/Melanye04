@@ -1,16 +1,31 @@
 ## Hi there 👋
 
 <!--
-**Melanye04/Melanye04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Melanye Rosa
 
-Here are some ideas to get you started:
+Desenvolvedora Fullstack em formação
+Python | JavaScript | Angular
+APIs REST | Banco de Dados | Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou desenvolvedora com foco em backend utilizando Python (FastAPI, Flask e Django), expandindo conhecimentos em frontend com JavaScript e Angular.
+
+Buscando oportunidade como Desenvolvedora Fullstack Júnior 
+
+Tecnologias
+
+Python (FastAPI, Flask, Django)
+
+JavaScript
+
+HTML & CSS
+
+PostgreSQL | MySQL | SQLite
+
+Git & GitHub
+
+Docker
+
+Contato:
+LinkedIn: (coloca o link)
+Email: melanyerosa000@gmail.com
 -->
