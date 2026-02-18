@@ -25,6 +25,6 @@ Git & GitHub
 Docker
 
 Contato:
-LinkedIn: (coloca o link)
+LinkedIn: https://www.linkedin.com/in/melanye-rosa-a7784a24b/
 Email: melanyerosa000@gmail.com
 -->
