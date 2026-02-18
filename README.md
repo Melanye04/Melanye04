@@ -1,7 +1,6 @@
-## Hi there 👋
 
 <!--
-Melanye Rosa
+Melanye Rosa Ferreira
 
 Desenvolvedora Fullstack em formação
 Python | JavaScript | Angular
