@@ -101,7 +101,7 @@ Projetos utilizando **HTML, CSS, JavaScript, TypeScript e Angular**.
 </p>
 
 ##  Contato
-
+<p> (11) 981661905 </p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/melanye-rosa-a7784a24b/">
@@ -119,5 +119,5 @@ Projetos utilizando **HTML, CSS, JavaScript, TypeScript e Angular**.
 </h3>
 
 <p align="center">
-  <i>"Aprendendo, construindo e evoluindo um projeto de cada vez."</i> 🚀
+  <i>"Aprendendo, construindo e evoluindo um projeto de cada vez."</i> 
 </p>
